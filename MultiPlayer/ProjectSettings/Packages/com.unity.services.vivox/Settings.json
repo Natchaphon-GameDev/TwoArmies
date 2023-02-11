@@ -1,0 +1,36 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "tokenKey",
+                "value": "{\"m_Value\":\"ivlSljOTVdCHuKKXkwfN04VJXUhy057T\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "tokenIssuer",
+                "value": "{\"m_Value\":\"18967-multi-63262-test\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "server",
+                "value": "{\"m_Value\":\"https://unity.vivox.com/appconfig/18967-multi-63262-test\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "domain",
+                "value": "{\"m_Value\":\"mtu1xp.vivox.com\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "pulledCredentialProjectId",
+                "value": "{\"m_Value\":\"c83e3f10-b7a8-4ea8-a0cf-ba5fdf88790f\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "isEnvironmentCustom",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}
